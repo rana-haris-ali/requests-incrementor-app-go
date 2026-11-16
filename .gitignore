@@ -1,0 +1,14 @@
+# Compiled binaries
+/server
+/server.exe
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
